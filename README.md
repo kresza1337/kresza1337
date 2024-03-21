@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kresza1337" alt="kresza1337" /></a> </p>
 
-- 🔭 I’m currently working on **Heatmap using Google Traffic API in Python**
+- 🔭 I’m currently working on: **Heatmap using Google Traffic API in Python**
+                                    **artificial intelligence in python**
 
 - 🌱 I’m currently learning **Java, Python**
 

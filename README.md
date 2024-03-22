@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <div align="left">
-  <img src="gif.gif" alt="alt text" width="830" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="gif.gif" alt="alt text" width="830" height="300" style="margin-top: 20px; margin-bottom: 20px;">
 </div>
 
 

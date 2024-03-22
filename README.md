@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Almost a programmer</h3>
-
+<a href="https://www.aswinbarath.me/"><img src="![image](https://github.com/kresza1337/kresza1337/assets/58442095/44532704-ee4a-47de-ac83-f8e330797d6b)" width="25px"></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kresza1337" alt="kresza1337" /></a> </p>
 
 - 🔭 I’m currently working on: **Heatmap using Google Traffic API in Python** , **artificial intelligence in python**
 
 - 🌱 I’m currently learning **Java, Python**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

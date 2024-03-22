@@ -1,3 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D5616AQFVz5VdddQCDw/profile-displaybackgroundimage-shrink_350_1400/0/1703789353632?e=1716422400&v=beta&t=_K0wB3nlHqVchkT1swSPC0T7VihONXL4kiaKKmoEMnE" ></a>
+<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fujijsehjw4b24oqjkvww.png" ></a>
 
 
